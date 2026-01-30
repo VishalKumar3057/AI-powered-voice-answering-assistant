@@ -1,0 +1,46 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Documentation
+*.md
+!README.md
+*.pdf
+*.html
+
+# Utility and Test Scripts
+find_class.py
+inspect_deepgram.py
+test_deepgram.py
+test_deepgram_direct.py
+test_ws.py
+walk_deepgram.py
+bookings.json
